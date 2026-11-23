@@ -3,7 +3,7 @@
 Contratos **mayores, menores y modificados** del Ayuntamiento de Marbella,
 presentados como observatorio web con buscador de expedientes.
 
-**Panel:** https://josehino.github.io/observatorio-contratacion-marbella/
+**Panel:** https://ammaconsulting.github.io/observatorio-contratacion-marbella/
 
 **Se actualiza solo el día 25 de cada mes.**
 
